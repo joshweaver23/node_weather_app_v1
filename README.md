@@ -2,4 +2,4 @@
 Simple Weather App Built with Node and Open Weather Map
 
 To run:
-node index.js -c ###city name###
+node index.js -c [city name]
